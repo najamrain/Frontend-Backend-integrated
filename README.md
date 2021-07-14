@@ -1,8 +1,7 @@
 How to run frontend
 1. First create virual environment in you system
 2. Clone this repository to you vitual environment directory
-3. Make sure you have a python installed in your system
-4.Then just run a simple command: pip install -r requirements.txt
+3. Make sure you have a python installed in your system .Then just run a simple command: pip install -r requirements.txt
 6. Then goto "video-recording-portal-frontend" folder and run a command: yarn
 7. then again provide a next command : yarn install
 8. it will take sometime download all the its dependecies
