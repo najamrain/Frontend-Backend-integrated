@@ -1,4 +1,4 @@
-How to run frontend
+How to run fullstack application
 1. First create virual environment in you system
 2. Clone this repository to you vitual environment directory
 3. Make sure you have a python installed in your system .Then just run a simple command: pip install -r requirements.txt
