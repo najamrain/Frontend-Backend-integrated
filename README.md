@@ -6,7 +6,7 @@ How to run fullstack application
 7. then again provide a next command : yarn install
 8. it will take sometime download all the its dependecies
 9. when downaloading is over , you good to go
-10. To run the frontend give a simple command: python manage.py runserver
+10. To run the project give a simple command: python manage.py runserver
 11. admin login credential : username: admin password: admin
 
 Conclusion: Please we have to understand that frontend is just to reacord a video and admin authentication.It will not work properly until the backend is runing in background.
